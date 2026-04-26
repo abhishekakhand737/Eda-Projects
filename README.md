@@ -30,7 +30,7 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 
 ## 🛠️ Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
@@ -118,12 +118,6 @@ Eda-Projects/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork and improve.
-
----
-
-## 📜 License
-
-Free to use for learning purposes.
 
 ---
 
