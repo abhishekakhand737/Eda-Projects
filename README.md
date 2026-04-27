@@ -15,7 +15,7 @@
 
 ### 🪔 Diwali Sales Analysis
 
-A complete Exploratory Data Analysis project on Diwali sales dataset to understand customer behavior and sales trends.
+A complete Exploratory Data Analysis project on Diwali sales dataset to understand customer behavior & sales trends.
 
 ---
 
