@@ -81,7 +81,7 @@ plt.show()
 * 🟢 Female customers contribute more to total sales
 * 🟢 Age group 26–35 shows highest purchasing activity
 * 🟢 Top states: Uttar Pradesh, Maharashtra, Karnataka
-* 🟢 High demand in Food, Clothing, Electronics categories
+* 🟢 High demand in Food, Clothing, Electronics categories.
 
 ---
 
@@ -111,7 +111,7 @@ Eda-Projects/
 
 * Add more EDA projects
 * Build interactive dashboards (Plotly / Power BI)
-* Add Machine Learning models
+* Add Machine Learning models.
 
 ---
 
