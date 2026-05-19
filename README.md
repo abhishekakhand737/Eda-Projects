@@ -1,25 +1,25 @@
-# 📊 EDA Project
+## 📊 EDA Project
 
 > A collection of Exploratory Data Analysis (EDA) projects using Python to extract insights from real-world datasets.
 
 ---
 
-## 📌 Repository Info
+### 📌 Repository Info
 
 * 👤 **Username:** abhishekakhand737
 * 📁 **Repository:** Eda-Projects
 
 ---
 
-## 📂 Projects Included
+### 📂 Projects Included
 
-### 🪔 Diwali Sales Analysis
+#### 🪔 Diwali Sales Analysis
 
 A complete Exploratory Data Analysis project on Diwali sales dataset to understand customer behavior & sales trends.
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 * Understand customer purchasing patterns
 * Analyze demographic impact (Age, Gender, State)
@@ -28,7 +28,7 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 * Python 
 * Pandas
@@ -38,9 +38,9 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 
 ---
 
-## 🔍 Analysis Workflow
+### 🔍 Analysis Workflow
 
-### 🔹 Data Cleaning
+#### 🔹 Data Cleaning
 
 * Removed null values
 * Handled missing data
@@ -48,7 +48,7 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 
 ---
 
-### 🔹 Exploratory Data Analysis (EDA)
+#### 🔹 Exploratory Data Analysis (EDA)
 
 * Gender-wise analysis
 * Age group analysis
@@ -57,7 +57,7 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 
 ---
 
-## 📊 Sample Code
+### 📊 Sample Code
 
 ```python
 import pandas as pd
@@ -76,7 +76,7 @@ plt.show()
 
 ---
 
-## 📈 Key Insights
+### 📈 Key Insights
 
 * 🟢 Female customers contribute more to total sales
 * 🟢 Age group 26–35 shows highest purchasing activity
@@ -85,7 +85,7 @@ plt.show()
 
 ---
 
-## ▶️ How to Run
+### ▶️ How to Run
 
 ```bash
 git clone https://github.com/abhishekakhand737/Eda-Projects.git
@@ -96,7 +96,7 @@ jupyter notebook
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```bash
 Eda-Projects/
@@ -107,7 +107,7 @@ Eda-Projects/
 
 ---
 
-## 🚀 Future Improvements
+### 🚀 Future Improvements
 
 * Add more EDA projects
 * Build interactive dashboards (Plotly / Power BI)
@@ -115,13 +115,13 @@ Eda-Projects/
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Feel free to fork and improve.
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Abhishek Akhand**
 
