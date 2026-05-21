@@ -11,14 +11,6 @@
 
 ---
 
-### 📂 Projects Included
-
-#### 🪔 Diwali Sales Analysis
-
-A complete Exploratory Data Analysis project on Diwali sales dataset to understand customer behavior & sales trends.
-
----
-
 ### 🎯 Objectives
 
 * Understand customer purchasing patterns
@@ -47,44 +39,6 @@ A complete Exploratory Data Analysis project on Diwali sales dataset to understa
 * Dropped unnecessary columns
 
 ---
-
-#### 🔹 Exploratory Data Analysis (EDA)
-
-* Gender-wise analysis
-* Age group analysis
-* State-wise sales distribution
-* Product category insights
-
----
-
-### 📊 Sample Code
-
-```python
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-df = pd.read_csv('Diwali Sales Data.csv', encoding='unicode_escape')
-
-sns.set(rc={'figure.figsize':(15,5)})
-
-sales_state = df.groupby(['State'], as_index=False)['Orders'].sum().sort_values(by='Orders', ascending=False).head(10)
-
-sns.barplot(data=sales_state, x='State', y='Orders')
-plt.show()
-```
-
----
-
-### 📈 Key Insights
-
-* 🟢 Female customers contribute more to total sales
-* 🟢 Age group 26–35 shows highest purchasing activity
-* 🟢 Top states: Uttar Pradesh, Maharashtra, Karnataka
-* 🟢 High demand in Food, Clothing, Electronics categories.
-
----
-
 ### ▶️ How to Run
 
 ```bash
@@ -101,8 +55,8 @@ jupyter notebook
 ```bash
 Eda-Projects/
 │── 01_Diwali_Sales_Eda.ipynb
-│── Diwali Sales Data.csv
-│── README.md
+│── 02_Movies_Eda.ipynb 
+│── 03_Ecommerce_Eda.ipynb
 ```
 
 ---
