@@ -13,8 +13,6 @@
 
 ### 🎯 Objectives
 
-* Understand customer purchasing patterns
-* Analyze demographic impact (Age, Gender, State)
 * Identify top-performing product categories
 * Generate business insights from data
 
@@ -57,15 +55,9 @@ Eda-Projects/
 │── 01_Diwali_Sales_Eda.ipynb
 │── 02_Movies_Eda.ipynb 
 │── 03_Ecommerce_Eda.ipynb
-```
+│── 04_Fraud_Detection_Eda.ipynb
 
----
 
-### 🚀 Future Improvements
-
-* Add more EDA projects
-* Build interactive dashboards (Plotly / Power BI)
-* Add Machine Learning models.
 
 ---
 
