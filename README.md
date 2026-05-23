@@ -1,6 +1,6 @@
-## 📊 EDA Project
+# 📊 EDA Project
 
-> A collection of Exploratory Data Analysis (EDA) projects using Python to extract insights from real-world datasets.
+ A collection of Exploratory Data Analysis (EDA) projects using Python to extract insights from real-world datasets.
 
 ---
 
@@ -28,9 +28,9 @@
 
 ---
 
-### 🔍 Analysis Workflow
+## 🔍 Analysis Workflow
 
-#### 🔹 Data Cleaning
+### 🔹 Data Cleaning
 
 * Removed null values
 * Handled missing data
