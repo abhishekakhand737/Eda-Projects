@@ -28,7 +28,6 @@
 
 ---
 
-## 🔍 Analysis Workflow
 
 ### 🔹 Data Cleaning
 
