@@ -1,4 +1,4 @@
-# 📊 EDA Project
+## 📊 EDA Project
 
  A collection of Exploratory Data Analysis (EDA) projects using Python to extract insights from real-world datasets.
 
