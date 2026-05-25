@@ -57,6 +57,7 @@ Eda-Projects/
 │── 04_Fraud_Detection_Eda.ipynb
 │── 05_Netflix_Eda.ipynb
 │── 06_IPL_Data_Analysis_Eda.ipynb
+│── 05_Youtube_Eda.ipynb
 
 
 
