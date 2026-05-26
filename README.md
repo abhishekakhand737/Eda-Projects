@@ -58,6 +58,8 @@ Eda-Projects/
 │── 05_Netflix_Eda.ipynb
 │── 06_IPL_Data_Analysis_Eda.ipynb
 │── 07_Youtube_Eda.ipynb
+│── 07_Playstore_Eda.ipynb
+
 
 
 
