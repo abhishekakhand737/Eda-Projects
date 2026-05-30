@@ -192,11 +192,10 @@ Google Play Store apps data analysis project.
 
 # ⭐ If You Like This Repository
 
-Give this repository a ⭐ on [GitHub](https://github.com?utm_source=chatgpt.com) and support the project!
-
+Then Star ⭐ the Repository.
 ---
 
 # 👨‍💻 Author
 
-Created by **Abhishek Akhand** 🚀
+Created by **Abhishek Akhand** 
 
