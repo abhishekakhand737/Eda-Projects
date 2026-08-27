@@ -1,201 +1,114 @@
-# 📊 EDA Projects Repository
+# 📊 EDA Projects — Exploratory Data Analysis
 
-Welcome to the **EDA (Exploratory Data Analysis) Projects** repository!
-This repository contains multiple real-world EDA projects built using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
-Each notebook focuses on extracting insights, cleaning data, visualizing trends, and performing exploratory analysis on different datasets.
+A collection of **Exploratory Data Analysis (EDA)** projects built using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
 
----
-
-# 🚀 Projects Included
-
-## 1️⃣ Diwali Sales EDA
-
-📁 `01_Diwali_Sales_Eda.ipynb`
-
-Analyze customer purchasing behavior during Diwali sales.
-This project focuses on:
-
-* Data Cleaning
-* Customer Segmentation
-* Gender-wise Analysis
-* Age Group Analysis
-* State-wise Sales
-* Product Category Insights
-
-### Skills Used
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+This repository contains real-world datasets covering different domains such as **E-commerce, Finance, Entertainment, Sports, Social Media, and Mobile Applications**. Each project focuses on data cleaning, exploration, visualization, and extracting meaningful insights from the data.
 
 ---
 
-## 2️⃣ Movies EDA
+## 🚀 Projects
 
-📁 `02_Movies_Eda.ipynb`
-
-Exploratory analysis on movie datasets to discover:
-
-* Popular Genres
-* Highest Rated Movies
-* Revenue Trends
-* Runtime Distribution
-* Correlation Analysis
-
-### Key Insights
-
-* Most profitable genres
-* Rating distribution
-* Yearly movie trends
+| #  | Project                    | Description                                                                                                                |
+| -- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 01 | 🪔 **Diwali Sales EDA**    | Analysis of customer purchasing behavior, sales trends, product categories, and customer demographics during Diwali.       |
+| 02 | 🎬 **Movies EDA**          | Exploratory analysis of movies based on ratings, genres, popularity, release trends, and other attributes.                 |
+| 03 | 🛒 **E-commerce EDA**      | Analysis of e-commerce sales, customers, products, revenue, and purchasing patterns.                                       |
+| 04 | 💳 **Fraud Detection EDA** | Exploratory analysis of transaction data to identify patterns and characteristics associated with fraudulent transactions. |
+| 05 | 🎥 **Netflix EDA**         | Analysis of Netflix movies and TV shows based on genres, ratings, release years, countries, and content trends.            |
+| 06 | 🏏 **IPL Data Analysis**   | Analysis of IPL matches, teams, players, runs, wickets, toss decisions, and match outcomes.                                |
+| 07 | ▶️ **YouTube EDA**         | Analysis of YouTube-related data to understand views, likes, comments, categories, and engagement patterns.                |
+| 08 | 📱 **Play Store EDA**      | Analysis of Google Play Store applications based on ratings, reviews, installs, categories, and app characteristics.       |
 
 ---
 
-## 3️⃣ Ecommerce EDA
+## 🛠️ Technologies Used
 
-📁 `03_Ecommerce_Eda.ipynb`
-
-Analyze e-commerce customer purchasing patterns and business insights.
-
-### Analysis Includes
-
-* Customer Behavior
-* Purchase Trends
-* Payment Methods
-* Product Performance
-* Revenue Analysis
-
-### Tools Used
-
-* Python
-* Pandas
-* Visualization Libraries
+* 🐍 **Python**
+* 🐼 **Pandas**
+* 🔢 **NumPy**
+* 📊 **Matplotlib**
+* 📈 **Seaborn**
+* 📓 **Jupyter Notebook**
 
 ---
 
-## 4️⃣ Fraud Detection EDA
+## 🔍 EDA Process
 
-📁 `04_Fraud_Detection_Eda.ipynb`
+The projects generally follow these steps:
 
-EDA on fraud transaction datasets to identify suspicious patterns.
-
-### Project Highlights
-
-* Fraud vs Non-Fraud Analysis
-* Transaction Distribution
-* Feature Correlation
-* Data Imbalance Visualization
-
-### Objective
-
-Understand patterns before building machine learning fraud detection models.
+1. **Data Collection**
+2. **Data Understanding**
+3. **Data Cleaning**
+4. **Handling Missing Values**
+5. **Data Transformation**
+6. **Exploratory Data Analysis**
+7. **Statistical Analysis**
+8. **Data Visualization**
+9. **Pattern & Trend Identification**
+10. **Business/Domain Insights**
 
 ---
 
-## 5️⃣ Netflix EDA
+## 📁 Repository Structure
 
-📁 `05_Netflix_Eda.ipynb`
-
-Analyze Netflix movies and TV shows dataset.
-
-### Insights Covered
-
-* Content Type Distribution
-* Top Genres
-* Country-wise Content
-* Ratings Analysis
-* Yearly Content Growth
-
-### Visualization Techniques
-
-* Countplots
-* Heatmaps
-* Pie Charts
-* Histograms
+```text
+Eda-Projects/
+│
+├── 01_Diwali_Sales_Eda.ipynb
+├── 02_Movies_Eda.ipynb
+├── 03_Ecommerce_Eda.ipynb
+├── 04_Fraud_Detection_Eda.ipynb
+├── 05_Netflix_Eda.ipynb
+├── 06_IPL_Data_Analysis_Eda.ipynb
+├── 07_Youtube_Eda.ipynb
+├── 08_Playstore_Eda.ipynb
+│
+└── README.md
+```
 
 ---
 
-## 6️⃣ IPL Data Analysis EDA
+## 📌 Key Learning Outcomes
 
-📁 `06_IPL_Data_Analysis_Eda.ipynb`
+Through these projects, I explored:
 
-Comprehensive analysis of IPL cricket data.
-
-### Analysis Includes
-
-* Team Performance
-* Most Successful Players
-* Toss Impact
-* Winning Statistics
-* Venue Analysis
-
-### Technologies
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
+* Data cleaning and preprocessing
+* Missing-value handling
+* Duplicate detection and removal
+* Data type conversion
+* Filtering and grouping data
+* Aggregation and statistical analysis
+* Correlation analysis
+* Univariate and bivariate analysis
+* Data visualization
+* Identifying trends and patterns
+* Extracting actionable insights from datasets
 
 ---
 
-## 7️⃣ YouTube EDA
+## 📊 Domains Covered
 
-📁 `07_Youtube_Eda.ipynb`
-
-EDA on YouTube trending videos dataset.
-
-### Key Analysis
-
-* Trending Categories
-* Likes vs Views
-* Channel Performance
-* Comment Analysis
-* Engagement Metrics
+**Finance • E-commerce • Entertainment • Sports • Social Media • Mobile Applications • Sales Analytics**
 
 ---
 
-## 8️⃣ Play Store EDA
+## 🎯 Objective
 
-📁 `08_Playstore_Eda.ipynb`
-
-Google Play Store apps data analysis project.
-
-### Project Focus
-
-* App Ratings
-* Category Trends
-* Free vs Paid Apps
-* Reviews Analysis
-* Installs Distribution
+The main objective of this repository is to demonstrate practical knowledge of **Exploratory Data Analysis** and the ability to transform raw datasets into meaningful insights through **data preprocessing, statistical analysis, and visualization**.
 
 ---
 
-# 🛠️ Technologies Used
+## 👨‍💻 Author
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+**Abhishek Akhand**
 
----
+B.Tech — Artificial Intelligence & Data Science
 
-# 📌 Objectives
-
-* Practice real-world data analysis
-* Improve visualization skills
-* Understand business insights from data
-* Build strong data analytics portfolio projects
+* GitHub: [abhishekakhand737](https://github.com/abhishekakhand737)
+* Repository: [Eda-Projects](https://github.com/abhishekakhand737/Eda-Projects)
 
 ---
 
-# ⭐ If You Like This Repository
+⭐ If you find this repository useful, consider giving it a **star**!
 
-Then Star ⭐ the Repository.
----
-
-# 👨‍💻 Author
-
-Created by **Abhishek Akhand** 
 
